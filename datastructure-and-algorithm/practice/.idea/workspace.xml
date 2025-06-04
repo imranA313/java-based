@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1eb7a0c-a2fc-4a2b-b4b8-da81a68e9bdb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2l8zEYBtCplPKIWmE7XVeIwCG1i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AnyMatchStreamExample.executor": "Run",
+    "Application.ChessBoardSquaresColor.executor": "Run",
+    "Application.CollectAveragingIntExample.executor": "Run",
+    "Application.CollectCountingExample.executor": "Run",
+    "Application.CollectGroupingByExample.executor": "Run",
+    "Application.CollectJoiningExample.executor": "Run",
+    "Application.CollectPartitioningByExample.executor": "Run",
+    "Application.CollectReducingExample.executor": "Run",
+    "Application.CollectStreamExample.executor": "Run",
+    "Application.CollectSummingIntExample.executor": "Run",
+    "Application.CollectToListExample.executor": "Run",
+    "Application.CollectToMapExample.executor": "Run",
+    "Application.CollectToSetExample.executor": "Run",
+    "Application.CreateStreamExample.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.EmptyExample.executor": "Run",
+    "Application.FilterExample.executor": "Run",
+    "Application.FindFirstStreamExample.executor": "Run",
+    "Application.FlatMapStreamExample.executor": "Run",
+    "Application.GroupByStreamExample.executor": "Run",
+    "Application.IfPresentExample.executor": "Run",
+    "Application.K_thNearestObstacle.executor": "Run",
+    "Application.LimitStreamExample.executor": "Run",
+    "Application.LongestAdjacentDigit.executor": "Run",
+    "Application.LongestAnagramGroup.executor": "Run",
+    "Application.MapStreamExample.executor": "Run",
+    "Application.OptionalClassExamples.executor": "Run",
+    "Application.OrElseExample.executor": "Run",
+    "Application.OrElseGetExample.executor": "Run",
+    "Application.OrElseThrowExample.executor": "Run",
+    "Application.ParallelStreamExample.executor": "Run",
+    "Application.ReduceStreamExample.executor": "Run",
+    "Application.Rotation.executor": "Run",
+    "Application.SkipStreamExample.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.SortedStreamExample.executor": "Run",
+    "Application.StreamExample.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.algorithm.sorting.Solution.executor": "Run",
+    "Application.doublylinkedlist.Solution.executor": "Run",
+    "Application.isPresentOptionalAPI.executor": "Run",
+    "Application.sorting.Solution.executor": "Run",
+    "Application.tree.binarytree.Solution.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/dsa/practice/pom.xml",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.qodana",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="CollectCountingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.collectors_class.CollectCountingExample" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.collectors_class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectGroupingByExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.collectors_class.CollectGroupingByExample" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.collectors_class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectPartitioningByExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.collectors_class.CollectPartitioningByExample" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.collectors_class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectReducingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.collectors_class.CollectReducingExample" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.collectors_class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.voletic.Test" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.voletic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.CollectReducingExample" />
+        <item itemvalue="Application.CollectCountingExample" />
+        <item itemvalue="Application.CollectPartitioningByExample" />
+        <item itemvalue="Application.CollectGroupingByExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1eb7a0c-a2fc-4a2b-b4b8-da81a68e9bdb" name="Changes" comment="" />
+      <created>1724576382095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724576382095</updated>
+      <workItem from="1724578389187" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/linkedlist/Solution.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/linkedlist/LinkedList.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/sorting/Solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/sorting/SelectionSort.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/sorting/SelectionSort.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/tree/binarytree/BinaryTree.java</url>
+          <line>40</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/tree/binarytree/BinaryTree.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
